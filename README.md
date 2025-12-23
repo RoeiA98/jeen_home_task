@@ -57,3 +57,6 @@ Processing file_name
 Successfully processed 15 chunks for file_name.
 File has been successfully proccessed and stored in the DB.
 ```
+
+## Database Example
+![Alt text](https://i.ibb.co/1fDKDVR4/Screenshot-2025-12-23-at-19-26-53.png)
