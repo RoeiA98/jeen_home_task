@@ -91,7 +91,7 @@ if __name__ == "__main__":
     try:
         vectorizer = DocumentVectorizer(DB_URL)
         print("Vectorizer initialized")
-        vectorizer.process_file("./samples/test2.docx")
+        vectorizer.process_file("./samples/test1.docx")
         print("File has been successfully proccessed and stored in the DB.")
     except Exception as e:
         print(f"An error occurred: {e}")
