@@ -53,8 +53,8 @@ When running the script successfully, you will see output similar to:
 
 ```text
 Vectorizer initialized
-Processing file_name
-Successfully processed X chunks for file_name.
+Processing file_name...
+Successfully processed X/Y chunks for file_name.
 File has been successfully proccessed and stored in the DB.
 ```
 
